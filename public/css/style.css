@@ -1,0 +1,85 @@
+p {
+    line-height: 50%;
+}
+
+.title{
+    text-align:center;
+    text-decoration: underline black;
+}
+
+table{
+    position: relative;
+    left: 10rem;
+    border-radius: 5px;
+}
+
+.cell{
+    width: 15rem;
+}
+
+.small-cell{
+    width: 12rem;
+}
+
+.cell_info{
+    width: 25rem;
+}
+
+.subt{
+    padding-left: 10rem;
+    
+}
+
+hr{
+    position: relative;
+    height: 1px;
+    background-color: black;
+    bottom: 1rem;
+    text-align: center;
+    width: 76%;
+}
+
+.product{
+    display: flex;
+    position: relative;
+}
+
+.caev_table{
+    border-radius: 10px;
+    width: 8rem;
+    float: right;
+}
+
+.caev{
+    font-weight: bold;
+    font-size: large;
+    padding: 10px;
+    line-height: 25px;
+    text-align: center;
+}
+
+.product-div{
+    padding-right: 20rem;
+}
+
+.caev-div{
+    padding-top: 3rem;
+}
+
+.cell-2{
+    width: 20rem;
+}
+
+.spaced{
+    padding-left: 10rem;
+}
+
+.answer{
+    padding-left: 10rem;
+}
+
+.flex{
+    display: flex;
+}
+
+
